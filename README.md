@@ -1,2 +1,2 @@
 # pyMagnetomap
-Python Magnetic Field Data Receiver for Magnetomap
+Magnetomap data feed acceptor for Python
